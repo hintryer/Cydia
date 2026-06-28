@@ -1,0 +1,575 @@
+Package: apt.cydiakk.batchomaticd
+Architecture: iphoneos-arm
+Version: 4.3.1-4
+Section: 插件
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 700
+Depends: firmware (>= 11.0), mobilesubstrate, coreutils
+Filename: ./debians/apt.cydiakk.batchomaticd_4.3.1-4_iphoneos-arm.deb
+Size: 158016
+MD5sum: dff5b1628444f6a672a984a785869c23
+SHA1: 8c7c6be8badd7cbc1323b62c7644b6287776a86d
+SHA256: 6edcab65c13a8937635f30ed13c4187769a2588a75de6627d7ec2dc28fa9529b
+SHA512: 10fedd678d522b6af65103d0efb03d85f6fbdc8c13a5d18387fe79aa15f81e34e8eb29f17160d42b245a53b9d24ec830aba62084a35c00e6b95e3e90f2928daa
+Description: DEB操作神插件 (调整在搜索左上角打开)
+Name: Batchomaticd DEB神器
+Author: Capt Inc <captinc37@gmail.com>
+Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: apt.cydiakk.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: 插件
+Maintainer: Laxus
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debians/apt.cydiakk.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 12328
+MD5sum: b8d6c5f2b9a9dcafa818b0e64c0bc6b2
+SHA1: 77ee8920e4c423679d33c1af9207e2df98978121
+SHA256: 6a7af9bd66865bce654596b00402576b6afd43cb3e80adf583dac15f4062d9db
+SHA512: 73ace905815c75659790db5828e37bb82ebc30221435a4e7e3b937eec6ebfa630b2dca071c5001bfbb7dc11530a98c8c74d467885217733091e5792484eecdf0
+Description: iOSGods出品的优秀内购破解，虽并不是全部应用支持
+Name: iOSGods iAP内购破解
+Author: Laxus
+Sponsor: pmzd
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.cdalei.httpcatcher
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: 插件
+Maintainer: ACydia大雷源™<admin@cdalei.com>
+Installed-Size: 400
+Depends: mobilesubstrate
+Filename: ./debians/com.cdalei.httpcatcher_1.1-1_iphoneos-arm.deb
+Size: 71888
+MD5sum: b81d8307caf94ccedaa9f830e2a00dc7
+SHA1: 26373526d612c8d78ca4e00ef961ed6d5ce101fa
+SHA256: e7bfe2b74ebda110170ce133c4a6b496c823533682341c87edf27cebfd5f0760
+SHA512: 9d83f0316f812eaabae30fc7edcb3e5b021f36fd1de40bce114da7191a6bd3dadfd78f2544cde5fc5abc2f90c85443615da598140dfeb5b172b0146da2888ce4
+Name: HttpCatcher 高级版
+Author: Ai
+Sponsor: ACydia大雷源™<http://apt.cdalei.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.cydiabc.csquanengpro
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: 插件
+Maintainer: Ai-小苹果™
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debians/com.cydiabc.csquanengpro_1.1-1_iphoneos-arm.deb
+Size: 112618
+MD5sum: 541478db04adbcb842a7de184942fd94
+SHA1: a65623d21bf47d13928ac48e90e62cbaa558e72e
+SHA256: dbfeee89250e64a33eab3d107e87fd9efb83443cff2402cc26f9154c02c4f8a2
+SHA512: 3f85776a038ba4476e716c23a2e23c1bdac73989a6f68ae847ef9e0ed949b8b9f3163c1f1e2ee6b8c39ec841ca1ce1960e44135b6dd7b752484eee6cbb986571
+Description: 扫描全能王解锁高级账户权限
+A12: 1
+Name: CS全能扫描王高级版
+Author: Ai-小苹果
+Sponsor: Ai-小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+
+Package: com.cydiabc.storeswitcher2
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: 系统
+Maintainer: Ai-小苹果
+Installed-Size: 276
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debians/com.cydiabc.storeswitcher2_1.0.3_iphoneos-arm.deb
+Size: 45932
+MD5sum: a4506fc378178108a774cafef7a01598
+SHA1: a0f1208fc960456aa1ba00eb317c9d2751408dc2
+SHA256: faf8826e742e5d494e9ef8a26818a72c672174ae2337bca6e4934bda6e3d450a
+SHA512: f38e21ed36786b8a1d7c3686bd423edcc9b67d41bc5cccee6fd5818cd17837833e79bfd31267c2059c5a0896ba5469475ebd1d45d9373ffacc72e3592e326517
+Description: App Store快速切换登录过的账号
+A12: 1
+Name: StoreSwitcher 2账号切换
+Author: subdiox
+Sponsor: Ai-小苹果
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+
+Package: com.imkpatil.easyeditalarms
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: 系统增强
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/com.imkpatil.easyeditalarms_1.1.5_iphoneos-arm.deb
+Size: 7210
+MD5sum: 70923c36a9e3e33297a294230bd2734f
+SHA1: b4104bf54faa0135d41c4ee37343fe515b06f054
+SHA256: 7ab1cf90eb8635e91bbaa1e29893e70a87dd4ac3f363a65b93b47962a1325895
+SHA512: 00b8d9d0d9f07fde2f0b3d9ab9ec2a38f675b2980ba46fb3a38cd41c41470406761dffc86550b0a3d2a4a047d25abfe865ac5082ce44a2a994c9ba405d16ca5c
+Description: 一个点简单的调整，让您只需点击闹钟即可编辑闹钟，无需点击顶部的编辑按钮，没有要配置的选项。
+Name: EasyEditAlarms
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: 系统增强
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155804
+MD5sum: cba1a817f6c65310789c8b508c8cb2ad
+SHA1: e96f360d0aa352685b0a6fb67ad59d2dd7f815e6
+SHA256: 7b635872b92f9992552d99a30a69681f5cc9a2ca2de69d25e95535ccfe81ae13
+SHA512: 5f3ab3a288e785bc2979179db016e0b8b030261e8329f4584dde0ead300f4e91e66c59772902a9a935396796f6d6c80030371528dfc16089b850d344e0bd69fd
+Description: 无线信息显示 密码显示。 WiFi密码在无线局域网-已知网络里边。
+Name: GoodWiFi 无线密码查看
+Author: julioverne
+
+Package: com.lenglengyu.wpsofficepro
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3468
+Depends: mobilesubstrate
+Filename: ./debians/com.lenglengyu.wpsofficepro_0.0.2_iphoneos-arm.deb
+Size: 656894
+MD5sum: cb3de7d3a366d482a4aba976617aebea
+SHA1: 2dca5826f936312a18e02def1ce8f7870fb91486
+SHA256: 7295a0d46463dab20df193bddf6bfebd6651b674ddf243388155504c9c91ab37
+SHA512: e904e64cfd156abfdfb48c4e82643eb8b65b638a830262be0d7397dd276092a1f2402d2a2d7b13db5f98024052330159a557e68a7611ec2852f44cf38f8becb6
+Description: WPS Office超级会员破解，稻壳无效，云空间自测。
+Name: WPS Office【不完美破解】
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/wpsofficepro.html
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wpsofficeprosileo
+
+Package: com.said.clockplus
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 145
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.said.clockplus_0.0.2_iphoneos-arm.deb
+Size: 12902
+MD5sum: b4273e556be065c854ef3f5fe517844a
+SHA1: 37f191de82b94bb0aeef35be77e6adabf8b3bafa
+SHA256: 17c87bf3785a46cc9d329f81fa3481ead4175be493bc686934b9c08a93ed4755
+SHA512: 7d68122cf9365d4c6751b6bdbd56337d00c0f524483453ee3aff8720b72e0cc924f6e613a451c03cc69d3e5a0c6f0a59f508cbc02410fa6ed7534596924b349a
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=clockplusDp
+Description: Show time(hr:mm:ss) till next alarm
+Tag: purpose::extension
+Author: Said Al Mujaini <sbypassdetection@gmail.com>
+Name: Clock+
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=clockplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: sbypassdetection
+
+Package: com.tomaszpoliszuk.datepickerwheels.hin
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: 系统增强
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/com.tomaszpoliszuk.datepickerwheels.hin_1.0.1_iphoneos-arm.deb
+Size: 4710
+MD5sum: 87c2ad0390ec3a1a4a49b36a49a3f7ae
+SHA1: c40f8ab666512a3722555a328943dc160bbda3bb
+SHA256: 4396d668323399212af48dea1a161ddd3552169a43d42d4fa968bfb4a9758732
+SHA512: 15837cd25b3f82c6fcaab74be18ecd4bd04f7c1fcd9003370f59d8361d885bdce4cf7b852365632bfce51d97ffbbb5184787c57c1eb8b2f052d254bd2e74d61c
+Description: 将闹钟方式由原来的输入数字编辑改为滚动数字编辑。
+Name: Date Picker - Wheels
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+
+Package: com.tomaszpoliszuk.datepickerwheels
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/com.tomaszpoliszuk.datepickerwheels_1.0.1_iphoneos-arm.deb
+Size: 3234
+MD5sum: 75b1c316c45945aaa4341984874a7706
+SHA1: 286a3f23ae7a2ff0af069ef302e6460d3c84b98b
+SHA256: 7395f2b9f7b2360a6352628051ea5337d273fa18e1208a49c0d77aa6d4f67bc0
+SHA512: 14305b0bc7e5819d063ad9bde38fcf30e01096a53d70ab8eea7782d3b55ba5efd206d0a7abad29afa6a058d326a07063663585839d2a6a3a687b0d3664f09e39
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datepickerwheelsDp
+Description: Replace new "Inline" Datepicker with "Wheels" one known from previous iOS versions
+Tag: purpose::extension
+Name: Date Picker - Wheels
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datepickerwheelsDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+
+Package: com.yourepo.lly.adsspee
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 440
+Depends: mobilesubstrate, com.spark.libsparkapplist, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debians/com.yourepo.lly.adsspee_1.1.1_iphoneos-arm.deb
+Size: 103808
+MD5sum: 534e689e1e9619dccb4e89f66d2a20bf
+SHA1: 30e6f9e6c498d5137d134c82a47072e3b3f2d0ff
+SHA256: 1eb4918084ef0318f919a7cdf2745fee9912de5312f6f78cac2f2786ef5e9d40
+SHA512: 852fb0eba06b23bedfa376563f1b0c31e6737e479189f41dd6d2b4bbd49cc958b6cf22c5ba3b75c495beb9a2873246cbd7e9e6ed2ab1ae5b9255a31df9aac3d7
+Description: 快速跳过视频广告，奖励正常领取。快速跳过视频广告，奖励正常领取。
+Name: VideoAdsSpeed【快速跳过广告】
+Author: lenglengyu
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
+Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
+
+Package: netskao.appdata
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 2456
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debians/netskao.appdata_1.4.1_iphoneos-arm.deb
+Size: 673510
+MD5sum: 25a9f7fa75f0e04f50e5207751aba992
+SHA1: 94d7ede03a4b7228b9784aed4a6eb18657ce3ef6
+SHA256: 9a58ae2d415d2af7ce08d7b3ba5e358e80d0d7ad54e758fd5718f8cc36506cad
+SHA512: 4e20b45333c7bb897374f1f4eb20106a8c0ed86b83f2c40879d8bf6d221be7ee75b1df0f250fee069712dc0b7892cf0d91ef8dae3f5327ae80f6df9e75f2d32f
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Name: AppData
+Author: Fouad Raheb
+
+Package: netskao.appshide
+Architecture: iphoneos-arm
+Version: 1.1-33
+Section: Netskao-Tweaks
+Maintainer: netskao
+Installed-Size: 424
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debians/netskao.appshide_1.1-33_iphoneos-arm.deb
+Size: 107238
+MD5sum: 3b14bc9e441b4d5106dca211d360dff8
+SHA1: a8e0bf73f343780746e02813a0741626df975fe4
+SHA256: 393aa06cbfb3271be82dea4503acf2a302764fb01b1948d4d6a91854ef3c9662
+SHA512: 628c09c8898c4ca22e5402b69d1bb98d70b42cf33e8261793dddb63a0ebfdd8c9e702506f7462090cf4cc7730ec682b4be78c063f9408e1b4797837e7d1736bf
+Description: 应用隐藏，支持选择需要隐藏的应用，详情看预览图
+Name: AppsHide应用隐藏
+Author: Netskao
+
+Package: netskao.appsmanagercrack
+Architecture: iphoneos-arm
+Version: 1.1-7
+Section: Netskao-Cracks
+Maintainer: Nets
+Installed-Size: 92
+Depends: mobilesubstrate, com.tigisoftware.appdatamanager
+Filename: ./debians/netskao.appsmanagercrack_1.1-7_iphoneos-arm.deb
+Size: 15532
+MD5sum: 72a7d9c55c69a9db09fb7a0b2e639063
+SHA1: dc360c08be49091aed2de98ec3cc146b460f19b4
+SHA256: f8ad454995ce6361549b07c0dc2481ce219b7e367ed8627fc528f882096ea01a
+SHA512: 0914fc7a90ef9d762a8b2ce8055894b7eb753d4112a87aab6cd0a38fde8bc9369f59e8020453784f1dcf60c68b2b394ff7d6abd1068dd3efe6b5bc83cc8f1352
+Homepage: https://tigisoftware.com/cydia/
+Description: Apps Manager解锁全功能无限制，主程序官方源安装即可
+Name: Apps Manager Crack
+Author: Netskao
+
+Package: netskao.awemepurification.forever
+Architecture: iphoneos-arm
+Version: 2.3-4
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.awemepurification
+Filename: ./debians/netskao.awemepurification.forever_2.3-4_iphoneos-arm.deb
+Size: 203854
+MD5sum: 3960a980763299c78ca2c801a959dcc7
+SHA1: 9cd286704786e3a0f24428c29713e5708018cb94
+SHA256: 89a9ddfcc207adbe8704914ebfaed232d8500f6194199c1664a122f31deedb8f
+SHA512: 68a72bf9dc4a110942e7dde6e539523504a9c63e156bbb2c63a96e053fff6faf0bf926439c70fd3e050d3c75a2dfdb62491ad0de28cc7e1957ed9f4bc16d3cf0
+Description: 抖音净化不过期版！设置位于抖音-设置，去除启动广告，去除视频流广告，去除视频流中的直播，去除流量提示，去除青少年提示，去除左下角播放时弹出的商品购买，去除左上角悬浮的推广等，可启用原始按钮或双击视频保存无水印视频活图片，支持保存所有视频或图片，可启用浅色模式或关闭，可启用全局纯净模式，可启用关注二次确定，可启用显示所有视频进度条，可启用双击快捷复制文案，可启用首页或非首页自动播放下一条，可启用iWall插件快速设置背景，可禁用头像挂件显示，可禁用弹出红包，可禁用全局状态栏，可禁用首页本地页面，可禁用摇一摇找朋友，可禁用分享面板朋友，可禁用分享面板应用，可禁用分享面板一起看视频，可禁用视频来源显示，可禁用首页按钮刷新列表，可禁用评论中的置顶评论，可禁用评论中的链接广告，可禁用底部朋友按钮，可禁用底部发抖音按钮，可禁用底部消息按钮，可禁用首页左上角直播按钮，可禁用首页右上角搜索按钮，仅支持15.7.0版本及以上(完美兼容版本20.5.0最后一个无商城显示IP版本)
+Name: 抖音净化不过期版
+Author: Netskao
+
+Package: netskao.bdtbnoads
+Architecture: iphoneos-arm
+Version: 1.2-8
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/netskao.bdtbnoads_1.2-8_iphoneos-arm.deb
+Size: 66586
+MD5sum: 25511b79f9507cd6c3aa9319a28992c3
+SHA1: cf3bd0de0072b5205f0b1c9e86c50f822fa0a5af
+SHA256: c301281a1400fa3eadbf19c5d2c6099d5aa3f3b3159852c05696bde84d57e6ed
+SHA512: 19602a24c2d691204cef9908c27aee8f848020366f2c357732a8117840cc820926d639383e5e984c1da3ec275004f6c83ae6eebc737a9712b445d1643f981511
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Name: 百度贴吧 NoAds
+Author: Netskao
+
+Package: netskao.bdwphooks
+Architecture: iphoneos-arm
+Version: 1.1-7
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 856
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debians/netskao.bdwphooks_1.1-7_iphoneos-arm.deb
+Size: 192004
+MD5sum: 65dbdf7ff5c22dc0cc85c1c314ec8c7b
+SHA1: 248859f12d260a304f303033f430629a152d769a
+SHA256: 2f0c6ec7a5d1c38f4f6ae92e88cf7940ac8127ad84bfeacd2461a96af93487ef
+SHA512: 33a3d15171faf68abd58de523d0fa2394b657c9f9029cd346bddac49c2fcd4ed34d6014a2e5acc59bed22a2cbb1bacb7cb161df4b083086f9d4336937ee8343f
+Description: 为百度网盘下载文件列表增加直接分享文件功能和快速在Filza中查看该文件功能，免去每次进入路径寻找文件的繁琐方式，使用方式:长按已下载文件即可。另外附加去除所有广告等，仅支持11.20.0及以上版本
+Name: 百度网盘 Hooks
+Author: Netskao
+
+Package: netskao.bilibilipure
+Architecture: iphoneos-arm
+Version: 1.2-6
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1468
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/netskao.bilibilipure_1.2-6_iphoneos-arm.deb
+Size: 903834
+MD5sum: 8acd1ba4b55885dac830cf512053659a
+SHA1: 66e2d23d95b3bd74ca434ea2cea49fbd9ce2eb58
+SHA256: 64c79404e55576a5a3ca1c7e576e17d166b2b1de2f1c12728c943baab9d9a147
+SHA512: 97cdd977ebbd080ad0b4d3d3d96011cc421f1b568ff5f0943e7e32dbad814fe9331d5f1f63574d305272206c6924a52b7f34a77f2ce310abcc8f70d181814d12
+Description: 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本
+Name: 哔哩哔哩净化
+Author: Netskao
+
+Package: netskao.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.3-7
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 2428
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debians/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Size: 533934
+MD5sum: c301eb282a191b45a98a0e4ee6a85528
+SHA1: 68213feba7edd45b46ca1cb3a865ac5ab49bf66b
+SHA256: a5d74986371777bb2513eaf87e1b0c40ad99f605312b3bd5ed2471906fa75aeb
+SHA512: 8a552b287802b53a604710b802cff02175a73b264c800733001fcc1425d90af40c7fa7c0aa7241c195e73d0fd4b5f98db93f60dd9e16c9b5fe08c99da21561b6
+Description: Decrypt iOS Apps
+Name: DumpDecrypter
+Author: Netskao
+
+Package: netskao.filzacrack
+Architecture: iphoneos-arm
+Version: 1.1-8
+Section: Netskao-Cracks
+Maintainer: Nets
+Installed-Size: 136
+Depends: mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debians/netskao.filzacrack_1.1-8_iphoneos-arm.deb
+Size: 7202
+MD5sum: c57a87433e7db38295edce317f41c658
+SHA1: c1777f9635524eb0e2d43b312748154f00cc0fd7
+SHA256: f9544fed74ad0506ab78edb107acd72d1755f54d1b66abad8343afa8befb5288
+SHA512: 3b038009d992ad90e2391cf4e19ce4d15c187af0e68afec18351a00a67e1de6c2fd6061ff5b84a0c59383a81890afbf39abd2583494ce1f6c5593f1e984d00ae
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+
+Package: netskao.icleanerprocrack
+Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Netskao-Cracks
+Maintainer: Nets
+Installed-Size: 200
+Depends: mobilesubstrate, com.exile90.icleanerpro
+Filename: ./debians/netskao.icleanerprocrack_1.1-3_iphoneos-arm.deb
+Size: 9846
+MD5sum: db37052e670d843c63739282cd34ebf7
+SHA1: 8e5042567ea55621286fea3e790916834af4ffed
+SHA256: defe93c7229ae3ab2b85f35a49b52d2639444a9772257ddadfde4d196cb4ee82
+SHA512: 1ef0d356f56ee833584206e4be4fa2362581cda98b708495fca898d4e1d00a8e03967b8f1967821810cc8be11a99a0988540f4e8ea4556901c719bf39b5b894c
+Homepage: https://ib-soft.net/cydia/
+Description: iCleaner Pro破解全功能插件，主程序官方源安装，支持所有机型，点击“更多信息”跳转官方源https://ib-soft.net/cydia/
+Name: iCleaner Pro Crack
+Author: Netskao
+
+Package: netskao.ksnoads
+Architecture: iphoneos-arm
+Version: 1.2-9
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 456
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/netskao.ksnoads_1.2-9_iphoneos-arm.deb
+Size: 115446
+MD5sum: e599bfd1b9b6b3d734c9422a7eda6464
+SHA1: d625900fa3a7b1e1283317e38ab8bdf4cac34008
+SHA256: 04ffddb1426ca831fb8e84ca39154e6fe085a96da24cfc797e3ff1634b092283
+SHA512: 5bf8b7d6cd45d2ddf437d744a99acdbe04aec72bcc31aa1ffb1a3b9e3867ae164e1bbcea95a48a23bf634aeb1a6749a645f97d5c5547cfd817b7465800a00e95
+Description: 快手去除启动广告(非极速版，概念版)，去除视频流广告（主要针对标明广告字样和部分没标明广告滋养游戏推广广告），增加原始按钮保存无水印视频到相册，增加双击保存无水印视频到相册，增加原始按钮保存无水印图片到相册等
+Name: 快手 NoAds
+Author: Netskao
+
+Package: netskao.ksnoads
+Architecture: iphoneos-arm
+Version: 1.3-1
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 388
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/netskao.ksnoads_1.3-1_iphoneos-arm.deb
+Size: 130912
+MD5sum: d011a6ef9bab950fd1b9e8367a29918d
+SHA1: 5db1a8f868e5019af6074dfce424a4b178306e7b
+SHA256: dc388fdb5bc9deb730ffc06d6ebf644c1c671370ff66be5dc80a7560377bfec5
+SHA512: 7812e9077aa8b0532ee8cb1aedc5605f720a88973d6cf86a55700fcbd446f2e1e94a75030910e1277f49942b02c19de8fd8540e64228c5711ccaf6854d70af80
+Description: 快手去除启动广告(非极速版，概念版)，去除视频流广告（主要针对标明广告字样和部分没标明广告滋养游戏推广广告），增加原始按钮保存无水印视频到相册，增加双击保存无水印视频到相册，增加原始按钮保存无水印图片到相册等
+Name: 快手 NoAds
+Author: Netskao
+
+Package: netskao.twitternoads
+Architecture: iphoneos-arm
+Version: 1.4-5
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 456
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/netskao.twitternoads_1.4-5_iphoneos-arm.deb
+Size: 102694
+MD5sum: 83b215f7741256f4f477e77de6052455
+SHA1: 3e341a36a6fe9658b4e17d96634ff3780694b00d
+SHA256: 50f6b5f504d9d90cb7dba4ec7ad075d30da92ba2847acc1e9101ebafb9277a62
+SHA512: fa98f6132f0982804f466113303f23c15905a0ce66f05ad9876d72916be014ee1f0f02f8e82cc28b8201ba60ae70284610b305f60a602fad6e6c227c67dad154
+Description: Twitter去除信息流中广告，去除搜索页面趋势信息流中广告，去除左侧中的广告选项和专业版选项，去除首页顶部视频和空间，禁用推特自定义字体，禁用链接跳转检查，修改搜索历史记录仅显示5条为显示所有，增加喜欢或撤销喜欢推文二次确定，增加瀑布流按钮保存视频或图片至相册，仅支持9.39及以上版本
+Name: Twitter NoAds
+Author: Netskao
+
+Package: netskao.wechatpurification.forever
+Architecture: iphoneos-arm
+Version: 2.2-3
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1948
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debians/netskao.wechatpurification.forever_2.2-3_iphoneos-arm.deb
+Size: 767006
+MD5sum: f45b8b730f59ac79bb8955d6e69e1178
+SHA1: e209a9d45eaec44f5a86a12fef74a3a2401ec692
+SHA256: ece543f16beff3922aec5ab3fd2f2912d5e4afeda64664997d32e73e55067917
+SHA512: 93496936bc44604a799293c13764729c1a5d0d9842ccf5fe1f9eb0a34e4c812bf831b6595470d5784283e0858882e0dc65bc8ed5af63e0161beb86a46938db87
+Description: 微信净化不过期版，还原聊天本质，干净的微信给你，仅支持8.0.18及以上版本（适配8.0.31版），设置位于微信-设置
+Name: 微信净化不过期版
+Author: Netskao
+
+Package: netskao.weibonoads
+Architecture: iphoneos-arm
+Version: 1.9-1
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 656
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debians/netskao.weibonoads_1.9-1_iphoneos-arm.deb
+Size: 166256
+MD5sum: e923c9c066c8c8a2fdbd4fa1bd5a3892
+SHA1: 779d22ef44c4325571356c716e941db6a34d7740
+SHA256: 87ca479b71bcd80513c7374a6afa8e8b1008f3a5f1896bea5a1fccb534c236c6
+SHA512: 7b9035eae25d49f10cb3b9f926ce4c16ec1fe511c1f038d194a5dd5116a272cb2625dec970d785a52a4a72e271e2187d8a2c17bc0f16a3df2cd2255b32db689e
+Description: 微博去除启动广告，去除首页信息流中广告，去除发现信息流中广告，去除个人详情页信息流中广告，去除搜索中广告，去除热搜榜中的广告，去除视频号信息流中广告，去除全屏视频流中的视频广告，去除评论中广，去除热搜榜页面底部潮物按钮，去除发现页面上方的广告横幅和随机出现的视频广告，去除首页顶部故事，去除首页顶部随机弹出的红包，去除首页红包悬浮窗，去除用户头像上方的挂件，去除信息卡片上的个性装饰，去除我的页面任务和推荐关注，去除底部视频或超话随机出现的更新提示，去除截图后分享提示，去除网址拦截，修改复制评论不带用户ID，增加我的页面右上角一键签到所有超话，增加视频详情页面按钮保存视频到相册，增加视频流和视频号页面双击保存视频到相册，支持720P/420P/360P选择等，仅支持微博13.0.0及以上版本
+Name: 微博 NoAds
+Author: Netskao
+
+Package: netskao.weibooverseasnoads
+Architecture: iphoneos-arm
+Version: 1.1-8
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debians/netskao.weibooverseasnoads_1.1-8_iphoneos-arm.deb
+Size: 89000
+MD5sum: d83492f8aec790f40bd95e45ce92754c
+SHA1: 4b049455d9264807ba479fb3089b9e8035909c9d
+SHA256: 38d0df91462d7ffb918608eea2d7c7391d95dea767639bb217ff4c0700afc725
+SHA512: 9c5ec814d94741a9ec68aef1d2c7371ec8c5628871a1a34100cac4649599b3299889cc8d5a9cfd25da82aff9aece4dc1afd74995a8eb0d4dbf25dba69f64f2a5
+Description: 微博轻享版(原国际版)去除启动广告，去除信息流中广告，去除网址拦截。仅支持6.0.0及以上版本
+Name: 微博轻享版 NoAds
+Author: Netskao
+
+Package: netskao.wfnoads
+Architecture: iphoneos-arm
+Version: 1.6-6
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 400
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debians/netskao.wfnoads_1.6-6_iphoneos-arm.deb
+Size: 97332
+MD5sum: 0edbd58c80951865ea1aa5abd74b3ca6
+SHA1: 4364098696b43dac3618dc41553a756004d937bf
+SHA256: a0af3561238e7002bc19b1dc7fddc5d3fb7d33c902f567e7fa3f8ae76aaee40f
+SHA512: 48f33c703436ea05ba27447720a1251046b2de959e9fe41ba65757d5839aac32c587c3d206152172c1de410da9f289a3de00df652d9306748794921b1ec7fc49
+Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，仅支持6.8.5及以上版本
+Name: 威锋 NoAds
+Author: Netskao
+
+Package: netskao.xmlynoads
+Architecture: iphoneos-arm
+Version: 1.1-7
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/netskao.xmlynoads_1.1-7_iphoneos-arm.deb
+Size: 82430
+MD5sum: ac362587bd41274c154ae3c135bb1072
+SHA1: ab3cded5d25036e628dbbe6674317627530f39d0
+SHA256: 2a7ea9f78203db822b14975057bd2cc59f61ea313155ba71c2ac8f3fff48f106
+SHA512: 201f9bd2d9293d16a8d658b13acd78b6547c01c5a596e1f68632bb4fe79b3fa82f9b6218f290f350b546960d60c36c3f62b4d16fe0c6dec350805e099516be79
+Description: 喜马拉雅去除启动广告，去除推荐列表中的广告和直播，去除播放广告，去除我的页面底部广告等，禁止越狱检测弹窗
+Name: 喜马拉雅 NoAds
+Author: Netskao
+
+Package: netskao.zhnoads
+Architecture: iphoneos-arm
+Version: 1.3-9
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 288
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/netskao.zhnoads_1.3-9_iphoneos-arm.deb
+Size: 74928
+MD5sum: b36919e8dccc039b8469b2e004dd5c3f
+SHA1: 020047768308b519e45ad413baeb8084eed064f0
+SHA256: daca14ad1ca2b7ff1565424f227dc562b5d72de2f4077e2309ede8a3ba91db07
+SHA512: 6ae8ebb89265e6f4b685f445b638e4388a849a4095464044fc9d31e6ba05fb3ef91b8df00309b9f081793c012a0cefba1a3f4c358a1c5ebf445b2c6065720183
+Description: 知乎去除启动广告，去除信息流中广告，去除答案中的广告，去除评论广告，去除随机弹出的推广窗口
+Name: 知乎 NoAds
+Author: Netskao
+
+Package: netskao.zynoads
+Architecture: iphoneos-arm
+Version: 1.2-6
+Section: Netskao-NoAds
+Maintainer: Nets
+Installed-Size: 368
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/netskao.zynoads_1.2-6_iphoneos-arm.deb
+Size: 95002
+MD5sum: b611cb64e77d22e7d979e34c64ed006f
+SHA1: 5a021dfb3759e2b2222ae2113711a36e2b85b089
+SHA256: 2116434c01e1af476352dd7efc5a1325722fd5d92251261d040f14cebe5111a6
+SHA512: 3902fb467fdbd65d42cf383a29fd7bc1ebebb5faf997f608d790451fee1d6839060a434f9c6679033bab44ff9a2e611a5b02d2330d60105bf2b8bc47dcf79ac2
+Description: 最右去除启动广告，去除贴间广告，去除评论广告，去除截图分享提示，去除青少年提示，增加原始按钮保存视频去水印(播放时就有水印的视频不属于去水印范围)，增加长按语音下载并分享语音，仅支持5.9.22及以上版本
+Name: 最右 NoAds
+Author: Netskao
+

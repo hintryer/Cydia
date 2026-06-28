@@ -1,0 +1,95 @@
+/* Global styles */
+:root {
+  --bg-primary: #f5f7fb;
+  --bg-secondary: #ffffff;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --text-muted: #6b7280;
+  --accent-primary: #2563eb;
+  --accent-secondary: #1d4ed8;
+  --border-color: rgba(0, 0, 0, 0.08);
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #111827;
+    --bg-secondary: #1f2937;
+    --text-primary: #f9fafb;
+    --text-secondary: #d1d5db;
+    --text-muted: #9ca3af;
+    --accent-primary: #60a5fa;
+    --accent-secondary: #3b82f6;
+    --border-color: rgba(255, 255, 255, 0.1);
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+    --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.35);
+  }
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.repo-header,
+.package-header,
+.changelog-header,
+.screenshots-header {
+  background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+  color: white;
+  padding: 2.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.repo-header img {
+  width: 64px;
+  height: 64px;
+  border-radius: 14px;
+  margin-right: 1rem;
+  box-shadow: var(--shadow-md);
+}
+
+.card,
+.screenshot-card,
+.list-group {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+}
+
+.card:hover,
+.screenshot-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.link-item {
+  color: var(--accent-primary);
+  text-decoration: none;
+}
+
+.link-item:hover {
+  color: var(--accent-secondary);
+}
+
+.btn-primary,
+.badge,
+.version-tag {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  background: var(--accent-secondary);
+  border-color: var(--accent-secondary);
+}
+
+.changelog-date,
+.text-muted {
+  color: var(--text-muted);
+}

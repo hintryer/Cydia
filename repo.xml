@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>关注我的 X</name>
+            <url>https://x.com/</url>
+            <iconclass>fa-brands fa-x-twitter</iconclass>
+        </link>
+        <link>
+            <name>查看这个仓库</name>
+            <url>https://github.com/hintryer/Cydia</url>
+            <iconclass>fa-solid fa-code-branch</iconclass>
+        </link>
+    </footerlinks>
+</repo>

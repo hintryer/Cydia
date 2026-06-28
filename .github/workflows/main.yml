@@ -1,0 +1,49 @@
+name: Update-Repo
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  Update-Repo-job:
+    runs-on: ubuntu-latest
+    env:
+      REPO_ORIGIN: hincom
+      REPO_LABEL: hincom源
+      REPO_CODENAME: stable
+      REPO_DESCRIPTION: 个人自制插件源
+      REPO_GPG_NAME: GitHub Actions
+      REPO_GPG_EMAIL: actions@example.com
+      REPO_GPG_PRIVATE_KEY: ${{ secrets.REPO_GPG_PRIVATE_KEY }}
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install required packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y apt-utils gnupg xz-utils zstd bzip2 lz4 gzip gawk
+
+      - name: Make update script executable
+        run: chmod +x ./update.sh ./updaterepo.sh
+
+      - name: Run update script
+        run: ./update.sh
+
+      - name: Set Git user
+        run: |
+          git config --global user.email "actions@example.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Commit if changes exist
+        run: |
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto Update"
+            git push
+          fi
