@@ -96,6 +96,46 @@ Sponsor: Ai-小苹果
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 12.png
 
+Package: com.cydiabc.tgextra
+Architecture: iphoneos-arm
+Version: 1.3-1
+Section: 插件
+Maintainer: choco/waruhachi
+Conflicts: com.choco.tg
+Filename: ./debians/com.cydiabc.tgextra_1.3-1_iphoneos-arm.deb
+Size: 4767718
+MD5sum: 05db305e8b09a3dc6c632bc99afaf32a
+SHA1: f2a014dbc2d299ccd8df5628ac846bd7fdb2dac2
+SHA256: a54bbf61e8e0d1a4628281fa8aa56053524bd0be4ba671950958864a71d9b631
+SHA512: acacbb9fe22c6c1c1145c39bb90fddc58503b1f7097870c9028bf0516504ccf8b23d907420c24d98dad9f1462ac573a6a57c27c36e525df80583762e421f2545
+Description: Telegram 增强插件， 去除广告- 隐藏一些输入状态- 允许保存频道限制下载的文件
+ 空白界面三指长按打开插件或者设置界面-长按倒数第三个选项“客服”打开插件
+A12: 1
+Name: Telegram TGExtra
+Author: choco/waruhachi
+Sponsor: Ai-小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.1-7
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 648
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debians/com.huami.dyyy_2.1-7_iphoneos-arm.deb
+Size: 107298
+MD5sum: e70666daffd132c6508781d0a6b43454
+SHA1: 2ae374f6f7033dba5fcf2edd8e344932dd61abd3
+SHA256: bd96d70da98f3ca0768d4d4121cb02acdd9433fe07e9186f57f6de3f129800d1
+SHA512: bbe2dbaa0101ffc26d1365be12a6ef47c72fc82380381cfb2b5c139e40802eb479c3a6265b7bf12fe771a39aad074b27f5d11a270e44b3771ce95f0e69081f37
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
 Package: com.imkpatil.easyeditalarms
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -470,6 +510,28 @@ SHA512: 93496936bc44604a799293c13764729c1a5d0d9842ccf5fe1f9eb0a34e4c812bf831b659
 Description: 微信净化不过期版，还原聊天本质，干净的微信给你，仅支持8.0.18及以上版本（适配8.0.31版），设置位于微信-设置
 Name: 微信净化不过期版
 Author: Netskao
+
+Package: netskao.wechatpurification
+Architecture: iphoneos-arm
+Version: 2026.04-6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23723
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/netskao.wechatpurification_2026.04-6_iphoneos-arm.deb
+Size: 8005246
+MD5sum: 070ba6ee68dec8a83e41094a89c614a7
+SHA1: 54235a347d6d364e142f5f54dbe15e1ad6832012
+SHA256: 62e5ef55e9adf21a38b5d3e0f390af8824303a488549f61cd9e6b2613ced0576
+SHA512: e1ce587f6c5cf421a1708c5a340182d9ebfe6068c4b9fc382221b2120da39b483d0122d839f0aa39412c85c9ad72fc44ee99e86d20026d42626c95ca34c32405
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Name: 微信净化
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: netskao
 
 Package: netskao.weibonoads
 Architecture: iphoneos-arm

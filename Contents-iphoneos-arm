@@ -1,4 +1,4 @@
-.							    com.cdalei.httpcatcher,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
+.							    com.cdalei.httpcatcher,com.huami.dyyy,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
 AppData							    netskao.appdata
 AppData.dylib						    netskao.appdata
 AppData.plist						    netskao.appdata
@@ -44,13 +44,15 @@ ClearCache.png						    netskao.appdata
 ClearData.png						    netskao.appdata
 ClipboardButton@2x.png					    netskao.appdata
 ClipboardButton@3x.png					    netskao.appdata
+DYYY.dylib						    com.huami.dyyy
+DYYY.plist						    com.huami.dyyy
 Downgrade.png						    netskao.appdata
 DumpDecrypter						    netskao.dumpdecrypter
 DumpDecrypter.app					    netskao.dumpdecrypter
 DumpDecrypter.dylib					    netskao.dumpdecrypter
 DumpDecrypter.plist					    netskao.dumpdecrypter
 DumpDecrypterCLI					    netskao.dumpdecrypter
-DynamicLibraries					    com.cdalei.httpcatcher,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
+DynamicLibraries					    com.cdalei.httpcatcher,com.huami.dyyy,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
 EditIconButton@2x.png					    netskao.appdata
 EditIconButton@3x.png					    netskao.appdata
 FilzaCrack.dylib					    netskao.filzacrack
@@ -75,10 +77,21 @@ LaunchImage-700@2x.png					    netskao.dumpdecrypter
 LaunchImage-800-667h@2x.png				    netskao.dumpdecrypter
 LaunchImage-800-Landscape-736h@3x.png			    netskao.dumpdecrypter
 LaunchImage-800-Portrait-736h@3x.png			    netskao.dumpdecrypter
-Library							    com.cdalei.httpcatcher,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
+Library							    com.cdalei.httpcatcher,com.huami.dyyy,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
 Library/Application Support/StoreSwitcher/switcher@1x.png   com.cydiabc.storeswitcher2
 Library/Application Support/StoreSwitcher/switcher@2x.png   com.cydiabc.storeswitcher2
 Library/Application Support/StoreSwitcher/switcher@3x.png   com.cydiabc.storeswitcher2
+Library/Application Support/TGExtra/TGExtra.bundle/ar.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/cn.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/en.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/es.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/fr.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/it.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/ja.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/langs.json com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/ru.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/tw.lproj/Localizable.strings com.cydiabc.tgextra
+Library/Application Support/TGExtra/TGExtra.bundle/vn.lproj/Localizable.strings com.cydiabc.tgextra
 Library/Application Support/adsspee/jiasu@2x.png	    com.yourepo.lly.adsspee
 Library/Application Support/adsspee/jiasu@3x.png	    com.yourepo.lly.adsspee
 Library/Batchomatic/Icon.bundle/Icon@2x.png		    apt.cydiakk.batchomaticd
@@ -109,6 +122,10 @@ Library/MobileSubstrate/DynamicLibraries/KSNoAds.dylib	    netskao.ksnoads
 Library/MobileSubstrate/DynamicLibraries/KSNoAds.plist	    netskao.ksnoads
 Library/MobileSubstrate/DynamicLibraries/StoreSwitcher.dylib com.cydiabc.storeswitcher2
 Library/MobileSubstrate/DynamicLibraries/StoreSwitcher.plist com.cydiabc.storeswitcher2
+Library/MobileSubstrate/DynamicLibraries/TGExtra.dylib	    com.cydiabc.tgextra
+Library/MobileSubstrate/DynamicLibraries/TGExtra.plist	    com.cydiabc.tgextra
+Library/MobileSubstrate/DynamicLibraries/WCPureExtension.dylib netskao.wechatpurification
+Library/MobileSubstrate/DynamicLibraries/WCPureExtension.plist netskao.wechatpurification
 Library/MobileSubstrate/DynamicLibraries/WeChatPure.dylib   netskao.wechatpurification.forever
 Library/MobileSubstrate/DynamicLibraries/WeChatPure.plist   netskao.wechatpurification.forever
 Library/MobileSubstrate/DynamicLibraries/adsspeed.dylib	    com.yourepo.lly.adsspee
@@ -146,7 +163,7 @@ Library/PreferenceLoader/Preferences/AppsHideSettings.plist netskao.appshide
 Library/PreferenceLoader/Preferences/GoodWiFiSettings.plist com.julioverne.goodwifi
 Library/PreferenceLoader/Preferences/adsspeed.plist	    com.yourepo.lly.adsspee
 Library/PreferenceLoader/Preferences/iOSGodsiAPCracker.plist apt.cydiakk.iosgodsiapcracker
-MobileSubstrate						    com.cdalei.httpcatcher,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
+MobileSubstrate						    com.cdalei.httpcatcher,com.huami.dyyy,netskao.appdata,netskao.appsmanagercrack,netskao.bdtbnoads,netskao.bdwphooks,netskao.bilibilipure,netskao.dumpdecrypter,netskao.filzacrack,netskao.icleanerprocrack,netskao.ksnoads,netskao.twitternoads,netskao.weibonoads,netskao.weibooverseasnoads,netskao.wfnoads,netskao.xmlynoads,netskao.zhnoads,netskao.zynoads
 OffloadApp.png						    netskao.appdata
 PreferenceBundles					    netskao.appdata
 PreferenceLoader					    netskao.appdata
