@@ -635,3 +635,20 @@ Description: 最右去除启动广告，去除贴间广告，去除评论广告�
 Name: 最右 NoAds
 Author: Netskao
 
+Package: wechatbuild
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/wechatbuild_1.1_有根.deb
+Size: 3456
+MD5sum: 1094099ec74aef813882d26b0fd6a53e
+SHA1: 165c3f724ff060e236d37e84ee82a1988297c9c3
+SHA256: 7a9c2b281a3265aaa35967526e9df31bbb2ccb2430ee0fbf6d0a126a64b06302
+SHA512: 4467320d71d8c36056cad786f0e0fcdf70ead950e3c84e1362fc4d88ff8818a018ee62a6edd3bb3662768ccf68c5f75cda689be3ea64384c7eca5f3aa6de0d92
+Description: 修改微信版为8.0.79本，也适合低版本微信不能登录，测试7.0.21正常登陆。无设置，登陆后就可以卸载插件后正常使用。
+Name: 修改微信版本号
+Author: z
+
